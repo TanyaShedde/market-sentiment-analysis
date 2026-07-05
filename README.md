@@ -23,7 +23,7 @@ Ensure you have the required Python libraries installed:
 pip install pandas matplotlib seaborn jupyter
 ```
 
-**3. ⚠️ Data Requirements (Important)**
+**3. Data Requirements (Important)**
 
 Due to GitHub's file size limits, the raw datasets (including `historical_data.csv` and the `fear_greed_index.csv`) are excluded from this repository via `.gitignore`. 
 
