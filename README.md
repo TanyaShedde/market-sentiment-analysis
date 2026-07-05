@@ -22,7 +22,7 @@ Ensure you have the required Python libraries installed:
 pip install pandas matplotlib seaborn jupyter
 ```
 
-**3.  Data Requirements **
+**3.Data Requriments**
 Due to GitHub's file size limits, the raw datasets  are excluded from this repository via .gitignore.
 To run this code locally, you must provide your own historical trading data and sentiment index CSV files.
 Place the CSV files directly in the root directory of this project before executing the notebook.
