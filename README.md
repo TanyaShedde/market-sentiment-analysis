@@ -23,9 +23,14 @@ Ensure you have the required Python libraries installed:
 pip install pandas matplotlib seaborn jupyter
 ```
 
-**3.Data Requriments**
+**3. ⚠️ Data Requirements (Important)**
 
-Due to GitHub's file size limits, the raw datasets  are excluded from this repository via .gitignore.To run this code locally, you must provide your own historical trading data and sentiment index CSV files.Place the CSV files directly in the root directory of this project before executing the notebook.
+Due to GitHub's file size limits, the raw datasets (including `historical_data.csv` and the `fear_greed_index.csv`) are excluded from this repository via `.gitignore`. 
+
+To run this code locally, you must download the dataset yourself:
+* Download the historical data from Google Drive here: [Historical Trading Dataset](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+* Download the frea and greed index data from Google Drive here: [Fear gree Index](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+* Place the downloaded CSV files directly in the root directory of this project before executing the notebook.
 
 **How to Run**
 
