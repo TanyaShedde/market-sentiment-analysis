@@ -11,8 +11,6 @@ This project analyzes the impact of market sentiment (Fear vs. Greed) on retail 
 
 ## Setup & Installation
 
-## Setup & Installation
-
 **1. Clone the repository**
 ```bash
 git clone https://github.com/TanyaShedde/market-sentiment-analysis.git
