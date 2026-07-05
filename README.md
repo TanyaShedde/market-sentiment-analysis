@@ -16,7 +16,8 @@ This project analyzes the impact of market sentiment (Fear vs. Greed) on retail 
 git clone https://github.com/TanyaShedde/market-sentiment-analysis.git
 ```
 **2. Install dependencies**
-# Ensure you have the required Python libraries installed:
+
+Ensure you have the required Python libraries installed:
 
 ```bash
 pip install pandas matplotlib seaborn jupyter
