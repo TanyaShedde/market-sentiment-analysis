@@ -13,4 +13,22 @@ This project analyzes the impact of market sentiment (Fear vs. Greed) on retail 
 
 **1. Clone the repository**
 ```bash
-git clone [
+git clone :https://github.com/TanyaShedde/market-sentiment-analysis.git
+
+2. Install dependencies
+Ensure you have the required Python libraries installed:
+
+Bash
+pip install pandas matplotlib seaborn jupyter
+3. ⚠️ Data Requirements (Important)
+Due to GitHub's file size limits, the raw datasets (including historical_data.csv and the sentiment data) are excluded from this repository via .gitignore.
+
+To run this code locally, you must provide your own historical trading data and sentiment index CSV files.
+
+Place the CSV files directly in the root directory of this project before executing the notebook.
+
+How to Run
+Launch Jupyter Notebook from your terminal in the project directory:
+
+Bash
+jupyter notebook
