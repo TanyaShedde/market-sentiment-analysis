@@ -13,11 +13,6 @@ Engineered a unified dataset by merging raw, granular trade execution logs with 
 Leveraged Pandas to group and compress row-level transactional data into daily performance matrices.
 Calculated key performance indicators (KPIs) including Daily Net PnL, Win Rate, and Average Position Size.
 
-*   **Cohort Segmentation:** 
-
-Applied statistical medians to categorize the trader population into distinct behavioral cohorts. 
-Traders were segmented by risk profile (High vs. Low Leverage), activity level (Frequent vs. Infrequent), and execution accuracy (Consistent vs. Inconsistent).
-
 *   **Statistical Evaluation:** 
 
 Conducted exploratory data analysis (EDA) using Seaborn and Matplotlib to isolate behavioral variables.
